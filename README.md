@@ -1,4 +1,4 @@
-# Project Name
+# Bayeisan Neural ODEs
 
 This repository contains code developed and owned by Colby Fronk. All rights are reserved by the owner, who has the final say on any matters related to this code.
 
